@@ -41,7 +41,7 @@
 			</div>
 		</div>
 		<script type="text/javascript" src="js/jquery.js"></script>
-		<script type="text/javascript" src="js/dreamQuery.js"></script>
+		<script type="text/javascript" src="js/dreamQuery.form.js"></script>
 		<script>
 			$(document).ready(function(){
 				$.dreamQuery.form.validationSettings.isAjax = true;
