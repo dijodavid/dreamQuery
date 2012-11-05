@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+
+/**** Form Validation Error ****/
+input.dream_required, select.dream_required, textarea.dream_required {
+}
+.dream_error_indicator {
+	background: #ffcec9;
+	border: 1px solid #d13727;
+	color: #d9594c;
+	font-size: 11px;
+	height: 16px;
+	line-height: 14px;
+	padding: 2px 5px;
+	position: absolute;
+	width: auto;
+}
+.dream_close_btn {
+	background: url("../img/cross.png") no-repeat;
+	height: 16px;
+	margin-left: 3px;
+	width: 16px;
+}
+.dream_helper {
+
+}
+.dream_fLeft {
+	float: left;
+}.dream_fRight {
+	float: right;
+}
